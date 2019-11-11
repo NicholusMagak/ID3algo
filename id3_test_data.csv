@@ -1,0 +1,9 @@
+carmodel,engine,turbo,weight,fueleco,fast
+Mercedes E700,large,no,average,bad,yes
+Peugeot 504,small,no,light,average,yes
+Tractor,small,yes,average,bad,no
+Trailer,large,no,heavy,bad,no
+Bus,large,no,average,bad,yes
+Mitsubishi Canter,large,no,light,bad,yes
+Lamborghini,large,yes,heavy,bad,yes
+Tiida,small,no,average,average,no
